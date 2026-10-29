@@ -114,3 +114,9 @@ Para finalizar, realizar una última verificación de accesibilidad y funcionami
 2. Comprobar que los cambios realizados al aplicar las clases de Bootstrap no hayan introducido nuevos problemas de accesibilidad.
 
 👀 **Resultado esperado:** la página conserva su funcionamiento, los componentes tienen estilo de Bootstrap y los problemas de accesibilidad identificados quedan resueltos sin introducir otros nuevos.
+
+## Recursos adicionales 
+- [Documentación de Typescript](https://www.w3schools.com/typescript/)
+- [Documentación de HTML - mdn](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Documentación de Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [WAVE Evaluation Tool](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
